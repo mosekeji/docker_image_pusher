@@ -25,4 +25,4 @@ zabbix/zabbix-appliance:latest
 #wordpress博客系统
 wordpress:latest
 #typecho博客系统
-typecho/typecho:latest
+80x86/typecho:latest
