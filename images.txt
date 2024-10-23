@@ -1,8 +1,14 @@
 mintplexlabs/anythingllm:latest
-#支持私库
 herberthe0229/iptv-sources:latest
 xhofe/alist:latest
 lmk123/migpt-server:latest
 seatable/seatable-developer:latest
 ollama/ollama:latest
-ONLYOFFICE/Docker-DocumentServer:latest
+6053537/portainer-ce:latest
+joinsunsoft/docker.ui:latest
+#云朵备份
+likeflyme/cloudbak:latest
+#浏览器
+docker-chromium:latest
+#浏览器
+m1k1o/neko:firefox:latest
