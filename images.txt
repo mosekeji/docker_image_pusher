@@ -1,10 +1,18 @@
+#LLM大模型
 mintplexlabs/anythingllm:latest
+#IPTV自动更新源
 herberthe0229/iptv-sources:latest
+#多网盘管理
 xhofe/alist:latest
+小米音箱大模型
 lmk123/migpt-server:latest
+#在线表格
 seatable/seatable-developer:latest
+#大模型管理器
 ollama/ollama:latest
+#docker管理器
 6053537/portainer-ce:latest
+#docker UI界面
 joinsunsoft/docker.ui:latest
 #云朵备份
 likeflyme/cloudbak:latest
@@ -12,3 +20,9 @@ likeflyme/cloudbak:latest
 linkease/ddnsto:latest
 #自动更新
 containrrr/watchtower:latest
+#zabbix监控系统
+zabbix/zabbix-appliance:latest
+#wordpress博客系统
+wordpress:latest
+#typecho博客系统
+typecho/typecho:latest
