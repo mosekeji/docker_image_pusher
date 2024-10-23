@@ -28,3 +28,5 @@ wordpress:latest
 80x86/typecho:latest
 #远程桌面控制服务
 rustdesk/rustdesk-server:latest
+#显示文档
+star7th/showdoc:latest
