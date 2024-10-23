@@ -10,5 +10,5 @@ joinsunsoft/docker.ui:latest
 likeflyme/cloudbak:latest
 #内网穿透
 linkease/ddnsto:latest
-#浏览器
-m1k1o/neko:firefox:latest
+#自动更新
+containrrr/watchtower:latest
