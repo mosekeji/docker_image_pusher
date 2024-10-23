@@ -14,11 +14,11 @@ ollama/ollama:latest
 6053537/portainer-ce:latest
 #docker UI界面
 joinsunsoft/docker.ui:latest
-#云朵备份
+#微信-云朵备份
 likeflyme/cloudbak:latest
 #内网穿透
 linkease/ddnsto:latest
-#自动更新
+#docker images自动更新
 containrrr/watchtower:latest
 #zabbix监控系统
 zabbix/zabbix-appliance:latest
@@ -26,3 +26,5 @@ zabbix/zabbix-appliance:latest
 wordpress:latest
 #typecho博客系统
 80x86/typecho:latest
+#远程桌面控制服务
+rustdesk/rustdesk-server:latest
