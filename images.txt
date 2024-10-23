@@ -8,7 +8,7 @@ ollama/ollama:latest
 joinsunsoft/docker.ui:latest
 #云朵备份
 likeflyme/cloudbak:latest
-#浏览器
-docker-chromium:latest
+#内网穿透
+linkease/ddnsto:latest
 #浏览器
 m1k1o/neko:firefox:latest
