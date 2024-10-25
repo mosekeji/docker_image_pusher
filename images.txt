@@ -30,3 +30,9 @@ wordpress:latest
 rustdesk/rustdesk-server:latest
 #显示文档
 star7th/showdoc:latest
+#neko:microsoft-edge浏览器
+m1k1o/neko:microsoft-edge
+#neko:firefox浏览器
+m1k1o/neko:firefox
+#neko:google-chrome浏览器
+m1k1o/neko:google-chrome
