@@ -38,3 +38,5 @@ m1k1o/neko:firefox
 m1k1o/neko:google-chrome
 #开源音乐库
 deluan/navidrome:latest
+#音乐刮削
+xhongc/music-tag-web:latest
