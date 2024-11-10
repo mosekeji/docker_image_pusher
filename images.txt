@@ -36,3 +36,5 @@ m1k1o/neko:microsoft-edge
 m1k1o/neko:firefox
 #neko:google-chrome浏览器
 m1k1o/neko:google-chrome
+#开源音乐库
+deluan/navidrome:latest
