@@ -40,3 +40,5 @@ m1k1o/neko:google-chrome
 deluan/navidrome:latest
 #音乐刮削
 xhongc/music-tag-web:latest
+#zfile网盘
+zhaojun1998/zfile:latest
