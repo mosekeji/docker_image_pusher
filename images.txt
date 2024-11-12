@@ -40,3 +40,5 @@ m1k1o/neko:google-chrome
 deluan/navidrome:latest
 #zfile网盘
 zhaojun1998/zfile:latest
+#SSH证书
+usual2970/certimate:latest
