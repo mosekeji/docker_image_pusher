@@ -42,3 +42,5 @@ deluan/navidrome:latest
 zhaojun1998/zfile:latest
 #SSH证书
 usual2970/certimate:latest
+#ai证件照
+linzeyi/hivision_idphotos
