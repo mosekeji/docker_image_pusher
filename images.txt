@@ -44,3 +44,7 @@ zhaojun1998/zfile:latest
 usual2970/certimate:latest
 #ai证件照
 linzeyi/hivision_idphotos
+#Docker可视化面板系统
+dpanel/dpanel:lite
+#服务器导航面板
+hslr/sun-panel:latest
