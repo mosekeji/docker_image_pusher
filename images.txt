@@ -48,3 +48,5 @@ linzeyi/hivision_idphotos
 dpanel/dpanel:lite
 #服务器导航面板
 hslr/sun-panel:latest
+#网络下行流量
+developer024/networkdownload:latest
